@@ -1,0 +1,17 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bable-node main.js",
+    "test": "jest --verbose", 
+    "generate":""
+  },
+  "author": "Jana",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "type": "module"
+}
